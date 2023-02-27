@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pymupdf = "===1.21.1"
 
 [dev-packages]
-flake8 = "===6.0.0"
 
 [requires]
 python_version = "3.11"
